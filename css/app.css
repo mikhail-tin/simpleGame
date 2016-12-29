@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+}
+
+#header {
+	position: fixed;
+	margin-left: 20%;
+}
+
+#playZona {
+	position: fixed;
+	margin-left: 10%;
+}
+
+#map {
+	display: block;
+	background-color: white;
+}
+
+#ufo, #enemy {
+	display: block;
+	margin-top: -800px;
+}
